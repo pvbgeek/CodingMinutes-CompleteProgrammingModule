@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1711133432 source:c:\users\pvbco\onedrive\desktop\dsa\[001]codingminutes\[part-1]dsa-level-1\[008]staircase-search\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
